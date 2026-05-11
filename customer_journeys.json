@@ -1,0 +1,2940 @@
+[
+  {
+    "customer_id": "C0488",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 301.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "north"
+    ],
+    "events": [
+      {
+        "event_id": "AE00001",
+        "event_type": "eta_refresh",
+        "timestamp": "2024-08-09 03:25:00",
+        "api_latency_ms": 301,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0595",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 60.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "SOUTH"
+    ],
+    "events": [
+      {
+        "event_id": "AE00002",
+        "event_type": "search_route",
+        "timestamp": "2024-02-13 22:29:00",
+        "api_latency_ms": 60,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0494",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 832.0,
+    "devices_used": [
+      "iOS",
+      "Android"
+    ],
+    "zones_visited": [
+      "Airport",
+      "SOUTH"
+    ],
+    "events": [
+      {
+        "event_id": "AE00003",
+        "event_type": "chat_opened",
+        "timestamp": "2025-08-11 09:29:00",
+        "api_latency_ms": 1118,
+        "success": true
+      },
+      {
+        "event_id": "AE00360",
+        "event_type": "search_route",
+        "timestamp": "2024-08-24 23:13:00",
+        "api_latency_ms": 546,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0407",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 442.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "CENTRAL"
+    ],
+    "events": [
+      {
+        "event_id": "AE00004",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-08-23 17:38:00",
+        "api_latency_ms": 442,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0506",
+    "total_events": 3,
+    "successful_events": 3,
+    "failed_events": 0,
+    "avg_api_latency": 437.67,
+    "devices_used": [
+      "iOS",
+      "Android"
+    ],
+    "zones_visited": [
+      "north",
+      "RiverSide",
+      "Riverside"
+    ],
+    "events": [
+      {
+        "event_id": "AE00005",
+        "event_type": "search_route",
+        "timestamp": "2024-05-29 10:33:00",
+        "api_latency_ms": 60,
+        "success": true
+      },
+      {
+        "event_id": "AE00016",
+        "event_type": "search_route",
+        "timestamp": "2024-01-13 06:22:00",
+        "api_latency_ms": 536,
+        "success": true
+      },
+      {
+        "event_id": "AE00223",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-01-05 02:35:00",
+        "api_latency_ms": 717,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0498",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 669.5,
+    "devices_used": [
+      "Web",
+      "Android"
+    ],
+    "zones_visited": [
+      "West",
+      "SOUTH"
+    ],
+    "events": [
+      {
+        "event_id": "AE00006",
+        "event_type": "track_order",
+        "timestamp": "2025-02-08 09:50:00",
+        "api_latency_ms": 499,
+        "success": true
+      },
+      {
+        "event_id": "AE00431",
+        "event_type": "search_route",
+        "timestamp": "2024-12-12 02:40:00",
+        "api_latency_ms": 840,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0033",
+    "total_events": 3,
+    "successful_events": 3,
+    "failed_events": 0,
+    "avg_api_latency": 434.67,
+    "devices_used": [
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "South",
+      "Ctr",
+      "Airport"
+    ],
+    "events": [
+      {
+        "event_id": "AE00007",
+        "event_type": "chat_opened",
+        "timestamp": "2025-04-20 19:06:00",
+        "api_latency_ms": 169,
+        "success": true
+      },
+      {
+        "event_id": "AE00444",
+        "event_type": "chat_opened",
+        "timestamp": "2025-10-27 22:48:00",
+        "api_latency_ms": 444,
+        "success": true
+      },
+      {
+        "event_id": "AE00568",
+        "event_type": "search_route",
+        "timestamp": "2025-07-16 05:21:00",
+        "api_latency_ms": 691,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0091",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 431.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "Ctr"
+    ],
+    "events": [
+      {
+        "event_id": "AE00008",
+        "event_type": "search_route",
+        "timestamp": "2024-08-18 02:08:00",
+        "api_latency_ms": 431,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0421",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 609.0,
+    "devices_used": [
+      "Web"
+    ],
+    "zones_visited": [
+      "North"
+    ],
+    "events": [
+      {
+        "event_id": "AE00009",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-07-20 11:46:00",
+        "api_latency_ms": 609,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0553",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 207.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "WEST",
+      "SOUTH"
+    ],
+    "events": [
+      {
+        "event_id": "AE00010",
+        "event_type": "chat_opened",
+        "timestamp": "2024-07-10 13:11:00",
+        "api_latency_ms": 167,
+        "success": true
+      },
+      {
+        "event_id": "AE00409",
+        "event_type": "payment_retry",
+        "timestamp": "2025-05-18 14:10:00",
+        "api_latency_ms": 247,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0643",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 363.5,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "Ctr"
+    ],
+    "events": [
+      {
+        "event_id": "AE00011",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2025-05-10 11:23:00",
+        "api_latency_ms": 182,
+        "success": true
+      },
+      {
+        "event_id": "AE00257",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-07-16 12:39:00",
+        "api_latency_ms": 545,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0095",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 99.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "Ctr",
+      "RiverSide"
+    ],
+    "events": [
+      {
+        "event_id": "AE00012",
+        "event_type": "chat_escalated",
+        "timestamp": "2025-12-10 19:11:00",
+        "api_latency_ms": 60,
+        "success": true
+      },
+      {
+        "event_id": "AE00099",
+        "event_type": "payment_retry",
+        "timestamp": "2024-04-25 00:36:00",
+        "api_latency_ms": 138,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0479",
+    "total_events": 4,
+    "successful_events": 3,
+    "failed_events": 1,
+    "avg_api_latency": 429.75,
+    "devices_used": [
+      "Web",
+      "Android"
+    ],
+    "zones_visited": [
+      "WEST",
+      "North",
+      "AIRPORT"
+    ],
+    "events": [
+      {
+        "event_id": "AE00013",
+        "event_type": "chat_escalated",
+        "timestamp": "2024-05-28 15:11:00",
+        "api_latency_ms": 399,
+        "success": false
+      },
+      {
+        "event_id": "AE00325",
+        "event_type": "eta_refresh",
+        "timestamp": "2024-06-29 12:26:00",
+        "api_latency_ms": 180,
+        "success": true
+      },
+      {
+        "event_id": "AE00330",
+        "event_type": "payment_retry",
+        "timestamp": "2024-06-04 23:57:00",
+        "api_latency_ms": 577,
+        "success": true
+      },
+      {
+        "event_id": "AE00514",
+        "event_type": "track_order",
+        "timestamp": "2024-04-16 07:25:00",
+        "api_latency_ms": 563,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0626",
+    "total_events": 2,
+    "successful_events": 1,
+    "failed_events": 1,
+    "avg_api_latency": 865.0,
+    "devices_used": [
+      "Android",
+      "Web"
+    ],
+    "zones_visited": [
+      "AIRPORT",
+      "Central"
+    ],
+    "events": [
+      {
+        "event_id": "AE00014",
+        "event_type": "track_order",
+        "timestamp": "2025-04-04 13:19:00",
+        "api_latency_ms": 998,
+        "success": true
+      },
+      {
+        "event_id": "AE00492",
+        "event_type": "chat_escalated",
+        "timestamp": "2025-09-27 14:21:00",
+        "api_latency_ms": 732,
+        "success": false
+      }
+    ]
+  },
+  {
+    "customer_id": "C0014",
+    "total_events": 3,
+    "successful_events": 3,
+    "failed_events": 0,
+    "avg_api_latency": 345.33,
+    "devices_used": [
+      "Android",
+      "Web"
+    ],
+    "zones_visited": [
+      "WEST",
+      "NORTH",
+      "RiverSide"
+    ],
+    "events": [
+      {
+        "event_id": "AE00015",
+        "event_type": "chat_opened",
+        "timestamp": "2024-08-16 15:27:00",
+        "api_latency_ms": 238,
+        "success": true
+      },
+      {
+        "event_id": "AE00300",
+        "event_type": "eta_refresh",
+        "timestamp": "2024-08-16 00:18:00",
+        "api_latency_ms": 214,
+        "success": true
+      },
+      {
+        "event_id": "AE00317",
+        "event_type": "track_order",
+        "timestamp": "2025-05-03 14:40:00",
+        "api_latency_ms": 584,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0170",
+    "total_events": 1,
+    "successful_events": 0,
+    "failed_events": 1,
+    "avg_api_latency": 624.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "North"
+    ],
+    "events": [
+      {
+        "event_id": "AE00017",
+        "event_type": "chat_escalated",
+        "timestamp": "2024-04-04 06:22:00",
+        "api_latency_ms": 624,
+        "success": false
+      }
+    ]
+  },
+  {
+    "customer_id": "C0530",
+    "total_events": 3,
+    "successful_events": 3,
+    "failed_events": 0,
+    "avg_api_latency": 636.33,
+    "devices_used": [
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "NORTH",
+      "Riverside",
+      "north"
+    ],
+    "events": [
+      {
+        "event_id": "AE00018",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2025-11-12 08:58:00",
+        "api_latency_ms": 626,
+        "success": true
+      },
+      {
+        "event_id": "AE00459",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-05-01 22:20:00",
+        "api_latency_ms": 633,
+        "success": true
+      },
+      {
+        "event_id": "AE00504",
+        "event_type": "eta_refresh",
+        "timestamp": "2024-09-27 20:14:00",
+        "api_latency_ms": 650,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0179",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 707.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "South"
+    ],
+    "events": [
+      {
+        "event_id": "AE00019",
+        "event_type": "track_order",
+        "timestamp": "2025-03-31 17:14:00",
+        "api_latency_ms": 707,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0116",
+    "total_events": 3,
+    "successful_events": 3,
+    "failed_events": 0,
+    "avg_api_latency": 576.67,
+    "devices_used": [
+      "Android",
+      "Web"
+    ],
+    "zones_visited": [
+      "NORTH",
+      "Riverside",
+      "WEST"
+    ],
+    "events": [
+      {
+        "event_id": "AE00020",
+        "event_type": "chat_opened",
+        "timestamp": "2025-10-25 19:05:00",
+        "api_latency_ms": 196,
+        "success": true
+      },
+      {
+        "event_id": "AE00062",
+        "event_type": "track_order",
+        "timestamp": "2024-01-29 07:08:00",
+        "api_latency_ms": 838,
+        "success": true
+      },
+      {
+        "event_id": "AE00448",
+        "event_type": "payment_retry",
+        "timestamp": "2025-06-03 06:20:00",
+        "api_latency_ms": 696,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0317",
+    "total_events": 3,
+    "successful_events": 3,
+    "failed_events": 0,
+    "avg_api_latency": 535.67,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "Ctr",
+      "Riverside"
+    ],
+    "events": [
+      {
+        "event_id": "AE00021",
+        "event_type": "search_route",
+        "timestamp": "2025-09-22 05:58:00",
+        "api_latency_ms": 494,
+        "success": true
+      },
+      {
+        "event_id": "AE00398",
+        "event_type": "track_order",
+        "timestamp": "2025-04-24 02:57:00",
+        "api_latency_ms": 442,
+        "success": true
+      },
+      {
+        "event_id": "AE00536",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-02-25 05:22:00",
+        "api_latency_ms": 671,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0188",
+    "total_events": 3,
+    "successful_events": 3,
+    "failed_events": 0,
+    "avg_api_latency": 431.0,
+    "devices_used": [
+      "iOS",
+      "Android"
+    ],
+    "zones_visited": [
+      "South",
+      "Airport",
+      "West"
+    ],
+    "events": [
+      {
+        "event_id": "AE00022",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-03-28 22:47:00",
+        "api_latency_ms": 760,
+        "success": true
+      },
+      {
+        "event_id": "AE00356",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2025-06-02 05:26:00",
+        "api_latency_ms": 439,
+        "success": true
+      },
+      {
+        "event_id": "AE00408",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-01-27 06:30:00",
+        "api_latency_ms": 94,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0543",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 500.5,
+    "devices_used": [
+      "iOS",
+      "Android"
+    ],
+    "zones_visited": [
+      "north",
+      "Riverside"
+    ],
+    "events": [
+      {
+        "event_id": "AE00023",
+        "event_type": "chat_opened",
+        "timestamp": "2024-10-16 14:48:00",
+        "api_latency_ms": 644,
+        "success": true
+      },
+      {
+        "event_id": "AE00589",
+        "event_type": "track_order",
+        "timestamp": "2024-11-19 19:38:00",
+        "api_latency_ms": 357,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0022",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 123.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "EAST",
+      "East"
+    ],
+    "events": [
+      {
+        "event_id": "AE00024",
+        "event_type": "track_order",
+        "timestamp": "2024-03-11 19:51:00",
+        "api_latency_ms": 60,
+        "success": true
+      },
+      {
+        "event_id": "AE00178",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-05-23 05:09:00",
+        "api_latency_ms": 186,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0486",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 350.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "North"
+    ],
+    "events": [
+      {
+        "event_id": "AE00025",
+        "event_type": "track_order",
+        "timestamp": "2025-06-27 22:42:00",
+        "api_latency_ms": 350,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0490",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 329.0,
+    "devices_used": [
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "NORTH",
+      "Central"
+    ],
+    "events": [
+      {
+        "event_id": "AE00026",
+        "event_type": "eta_refresh",
+        "timestamp": "2024-11-16 23:54:00",
+        "api_latency_ms": 388,
+        "success": true
+      },
+      {
+        "event_id": "AE00060",
+        "event_type": "search_route",
+        "timestamp": "2025-09-14 12:20:00",
+        "api_latency_ms": 270,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0574",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 886.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "Riverside"
+    ],
+    "events": [
+      {
+        "event_id": "AE00027",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-05-12 06:04:00",
+        "api_latency_ms": 886,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0166",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 447.0,
+    "devices_used": [
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "South",
+      "WEST"
+    ],
+    "events": [
+      {
+        "event_id": "AE00028",
+        "event_type": "track_order",
+        "timestamp": "2024-09-27 00:44:00",
+        "api_latency_ms": 570,
+        "success": true
+      },
+      {
+        "event_id": "AE00038",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-09-25 11:47:00",
+        "api_latency_ms": 324,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0367",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 450.5,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "EAST"
+    ],
+    "events": [
+      {
+        "event_id": "AE00029",
+        "event_type": "payment_retry",
+        "timestamp": "2024-03-27 16:30:00",
+        "api_latency_ms": 435,
+        "success": true
+      },
+      {
+        "event_id": "AE00346",
+        "event_type": "track_order",
+        "timestamp": "2025-07-24 12:46:00",
+        "api_latency_ms": 466,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0455",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 403.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "West"
+    ],
+    "events": [
+      {
+        "event_id": "AE00030",
+        "event_type": "chat_opened",
+        "timestamp": "2025-06-07 02:10:00",
+        "api_latency_ms": 403,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0241",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 1660.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "Airport"
+    ],
+    "events": [
+      {
+        "event_id": "AE00031",
+        "event_type": "track_order",
+        "timestamp": "2024-06-09 05:13:00",
+        "api_latency_ms": 1660,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0226",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 721.0,
+    "devices_used": [
+      "Android",
+      "Web"
+    ],
+    "zones_visited": [
+      "EAST",
+      "South"
+    ],
+    "events": [
+      {
+        "event_id": "AE00032",
+        "event_type": "search_route",
+        "timestamp": "2025-09-20 00:20:00",
+        "api_latency_ms": 632,
+        "success": true
+      },
+      {
+        "event_id": "AE00529",
+        "event_type": "track_order",
+        "timestamp": "2024-01-17 07:51:00",
+        "api_latency_ms": 810,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0587",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 520.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "north"
+    ],
+    "events": [
+      {
+        "event_id": "AE00033",
+        "event_type": "track_order",
+        "timestamp": "2025-01-03 09:32:00",
+        "api_latency_ms": 520,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0245",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 703.5,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "CENTRAL",
+      "WEST"
+    ],
+    "events": [
+      {
+        "event_id": "AE00034",
+        "event_type": "search_route",
+        "timestamp": "2025-08-21 08:08:00",
+        "api_latency_ms": 510,
+        "success": true
+      },
+      {
+        "event_id": "AE00342",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2025-02-26 11:20:00",
+        "api_latency_ms": 897,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0017",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 254.0,
+    "devices_used": [
+      "iOS",
+      "Android"
+    ],
+    "zones_visited": [
+      "SOUTH",
+      "North"
+    ],
+    "events": [
+      {
+        "event_id": "AE00035",
+        "event_type": "payment_retry",
+        "timestamp": "2025-10-08 17:17:00",
+        "api_latency_ms": 60,
+        "success": true
+      },
+      {
+        "event_id": "AE00620",
+        "event_type": "track_order",
+        "timestamp": "2025-08-02 12:06:00",
+        "api_latency_ms": 448,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0007",
+    "total_events": 1,
+    "successful_events": 0,
+    "failed_events": 1,
+    "avg_api_latency": 362.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "Ctr"
+    ],
+    "events": [
+      {
+        "event_id": "AE00036",
+        "event_type": "chat_escalated",
+        "timestamp": "2025-05-03 17:47:00",
+        "api_latency_ms": 362,
+        "success": false
+      }
+    ]
+  },
+  {
+    "customer_id": "C0160",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 458.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "East"
+    ],
+    "events": [
+      {
+        "event_id": "AE00037",
+        "event_type": "chat_opened",
+        "timestamp": "2025-08-26 22:16:00",
+        "api_latency_ms": 458,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0274",
+    "total_events": 3,
+    "successful_events": 3,
+    "failed_events": 0,
+    "avg_api_latency": 358.0,
+    "devices_used": [
+      "iOS",
+      "Web"
+    ],
+    "zones_visited": [
+      "Ctr",
+      "SOUTH"
+    ],
+    "events": [
+      {
+        "event_id": "AE00039",
+        "event_type": "payment_retry",
+        "timestamp": "2024-01-09 23:40:00",
+        "api_latency_ms": 528,
+        "success": true
+      },
+      {
+        "event_id": "AE00303",
+        "event_type": "cancel_attempt",
+        "timestamp": "2025-01-01 07:52:00",
+        "api_latency_ms": 233,
+        "success": true
+      },
+      {
+        "event_id": "AE00334",
+        "event_type": "track_order",
+        "timestamp": "2025-03-15 01:52:00",
+        "api_latency_ms": 313,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0532",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 724.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "WEST"
+    ],
+    "events": [
+      {
+        "event_id": "AE00040",
+        "event_type": "search_route",
+        "timestamp": "2025-11-17 09:32:00",
+        "api_latency_ms": 724,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0075",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 670.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "Riverside"
+    ],
+    "events": [
+      {
+        "event_id": "AE00041",
+        "event_type": "track_order",
+        "timestamp": "2025-05-24 04:19:00",
+        "api_latency_ms": 670,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0409",
+    "total_events": 3,
+    "successful_events": 3,
+    "failed_events": 0,
+    "avg_api_latency": 481.0,
+    "devices_used": [
+      "iOS",
+      "Web",
+      "Android"
+    ],
+    "zones_visited": [
+      "north",
+      "Riverside",
+      "East"
+    ],
+    "events": [
+      {
+        "event_id": "AE00042",
+        "event_type": "search_route",
+        "timestamp": "2024-09-18 07:02:00",
+        "api_latency_ms": 524,
+        "success": true
+      },
+      {
+        "event_id": "AE00250",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-03-20 14:32:00",
+        "api_latency_ms": 553,
+        "success": true
+      },
+      {
+        "event_id": "AE00484",
+        "event_type": "chat_opened",
+        "timestamp": "2024-09-08 07:04:00",
+        "api_latency_ms": 366,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0200",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 287.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "WEST"
+    ],
+    "events": [
+      {
+        "event_id": "AE00043",
+        "event_type": "eta_refresh",
+        "timestamp": "2024-11-27 18:10:00",
+        "api_latency_ms": 287,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0633",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 588.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "CENTRAL"
+    ],
+    "events": [
+      {
+        "event_id": "AE00044",
+        "event_type": "search_route",
+        "timestamp": "2025-06-04 17:13:00",
+        "api_latency_ms": 588,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0163",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 445.5,
+    "devices_used": [
+      "iOS",
+      "Android"
+    ],
+    "zones_visited": [
+      "Airport",
+      "NORTH"
+    ],
+    "events": [
+      {
+        "event_id": "AE00045",
+        "event_type": "payment_retry",
+        "timestamp": "2024-10-09 22:04:00",
+        "api_latency_ms": 555,
+        "success": true
+      },
+      {
+        "event_id": "AE00427",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-09-11 08:22:00",
+        "api_latency_ms": 336,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0531",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 326.0,
+    "devices_used": [
+      "Web"
+    ],
+    "zones_visited": [
+      "WEST"
+    ],
+    "events": [
+      {
+        "event_id": "AE00046",
+        "event_type": "search_route",
+        "timestamp": "2024-10-30 13:13:00",
+        "api_latency_ms": 326,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0063",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 410.5,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "East",
+      "CENTRAL"
+    ],
+    "events": [
+      {
+        "event_id": "AE00047",
+        "event_type": "track_order",
+        "timestamp": "2024-09-18 14:52:00",
+        "api_latency_ms": 344,
+        "success": true
+      },
+      {
+        "event_id": "AE00070",
+        "event_type": "chat_opened",
+        "timestamp": "2025-06-11 06:37:00",
+        "api_latency_ms": 477,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0306",
+    "total_events": 3,
+    "successful_events": 2,
+    "failed_events": 1,
+    "avg_api_latency": 706.67,
+    "devices_used": [
+      "Android",
+      "Web"
+    ],
+    "zones_visited": [
+      "RiverSide",
+      "NORTH",
+      "AIRPORT"
+    ],
+    "events": [
+      {
+        "event_id": "AE00048",
+        "event_type": "chat_escalated",
+        "timestamp": "2025-02-25 04:16:00",
+        "api_latency_ms": 166,
+        "success": false
+      },
+      {
+        "event_id": "AE00103",
+        "event_type": "payment_retry",
+        "timestamp": "2025-10-02 10:34:00",
+        "api_latency_ms": 551,
+        "success": true
+      },
+      {
+        "event_id": "AE00462",
+        "event_type": "track_order",
+        "timestamp": "2024-07-08 17:38:00",
+        "api_latency_ms": 1403,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0381",
+    "total_events": 2,
+    "successful_events": 1,
+    "failed_events": 1,
+    "avg_api_latency": 103.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "West",
+      "WEST"
+    ],
+    "events": [
+      {
+        "event_id": "AE00049",
+        "event_type": "chat_opened",
+        "timestamp": "2025-11-11 17:22:00",
+        "api_latency_ms": 113,
+        "success": true
+      },
+      {
+        "event_id": "AE00417",
+        "event_type": "payment_retry",
+        "timestamp": "2025-05-26 16:35:00",
+        "api_latency_ms": 93,
+        "success": false
+      }
+    ]
+  },
+  {
+    "customer_id": "C0114",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 539.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "North",
+      "AIRPORT"
+    ],
+    "events": [
+      {
+        "event_id": "AE00050",
+        "event_type": "track_order",
+        "timestamp": "2024-01-05 23:16:00",
+        "api_latency_ms": 545,
+        "success": true
+      },
+      {
+        "event_id": "AE00109",
+        "event_type": "eta_refresh",
+        "timestamp": "2024-07-17 12:02:00",
+        "api_latency_ms": 533,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0080",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 473.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "Ctr"
+    ],
+    "events": [
+      {
+        "event_id": "AE00051",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-10-18 21:50:00",
+        "api_latency_ms": 473,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0326",
+    "total_events": 1,
+    "successful_events": 0,
+    "failed_events": 1,
+    "avg_api_latency": 570.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "north"
+    ],
+    "events": [
+      {
+        "event_id": "AE00052",
+        "event_type": "payment_retry",
+        "timestamp": "2024-02-12 02:37:00",
+        "api_latency_ms": 570,
+        "success": false
+      }
+    ]
+  },
+  {
+    "customer_id": "C0349",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 255.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "South"
+    ],
+    "events": [
+      {
+        "event_id": "AE00053",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-11-28 23:28:00",
+        "api_latency_ms": 255,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0138",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 508.5,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "South",
+      "North"
+    ],
+    "events": [
+      {
+        "event_id": "AE00054",
+        "event_type": "search_route",
+        "timestamp": "2025-05-01 02:00:00",
+        "api_latency_ms": 73,
+        "success": true
+      },
+      {
+        "event_id": "AE00333",
+        "event_type": "chat_opened",
+        "timestamp": "2024-05-05 18:40:00",
+        "api_latency_ms": 944,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0120",
+    "total_events": 3,
+    "successful_events": 2,
+    "failed_events": 1,
+    "avg_api_latency": 625.67,
+    "devices_used": [
+      "iOS",
+      "Android"
+    ],
+    "zones_visited": [
+      "AIRPORT",
+      "South",
+      "West"
+    ],
+    "events": [
+      {
+        "event_id": "AE00055",
+        "event_type": "track_order",
+        "timestamp": "2024-09-29 23:08:00",
+        "api_latency_ms": 800,
+        "success": true
+      },
+      {
+        "event_id": "AE00249",
+        "event_type": "payment_retry",
+        "timestamp": "2025-10-20 11:10:00",
+        "api_latency_ms": 591,
+        "success": false
+      },
+      {
+        "event_id": "AE00481",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-02-09 09:36:00",
+        "api_latency_ms": 486,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0556",
+    "total_events": 1,
+    "successful_events": 0,
+    "failed_events": 1,
+    "avg_api_latency": 592.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "north"
+    ],
+    "events": [
+      {
+        "event_id": "AE00056",
+        "event_type": "payment_retry",
+        "timestamp": "2025-09-23 17:24:00",
+        "api_latency_ms": 592,
+        "success": false
+      }
+    ]
+  },
+  {
+    "customer_id": "C0266",
+    "total_events": 4,
+    "successful_events": 4,
+    "failed_events": 0,
+    "avg_api_latency": 497.5,
+    "devices_used": [
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "East",
+      "SOUTH",
+      "AIRPORT"
+    ],
+    "events": [
+      {
+        "event_id": "AE00057",
+        "event_type": "track_order",
+        "timestamp": "2025-11-03 13:54:00",
+        "api_latency_ms": 585,
+        "success": true
+      },
+      {
+        "event_id": "AE00439",
+        "event_type": "chat_opened",
+        "timestamp": "2025-06-22 20:44:00",
+        "api_latency_ms": 442,
+        "success": true
+      },
+      {
+        "event_id": "AE00477",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-03-30 19:25:00",
+        "api_latency_ms": 365,
+        "success": true
+      },
+      {
+        "event_id": "AE00556",
+        "event_type": "track_order",
+        "timestamp": "2024-02-13 11:19:00",
+        "api_latency_ms": 598,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0187",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 463.5,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "AIRPORT",
+      "RiverSide"
+    ],
+    "events": [
+      {
+        "event_id": "AE00058",
+        "event_type": "search_route",
+        "timestamp": "2025-08-26 16:54:00",
+        "api_latency_ms": 207,
+        "success": true
+      },
+      {
+        "event_id": "AE00557",
+        "event_type": "chat_opened",
+        "timestamp": "2025-02-13 06:44:00",
+        "api_latency_ms": 720,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0613",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 566.0,
+    "devices_used": [
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "East",
+      "EAST"
+    ],
+    "events": [
+      {
+        "event_id": "AE00059",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-12-30 21:49:00",
+        "api_latency_ms": 327,
+        "success": true
+      },
+      {
+        "event_id": "AE00507",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-12-30 23:05:00",
+        "api_latency_ms": 805,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0551",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 418.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "Airport"
+    ],
+    "events": [
+      {
+        "event_id": "AE00061",
+        "event_type": "track_order",
+        "timestamp": "2025-03-31 09:18:00",
+        "api_latency_ms": 418,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0549",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 410.0,
+    "devices_used": [
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "East"
+    ],
+    "events": [
+      {
+        "event_id": "AE00063",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-11-06 15:04:00",
+        "api_latency_ms": 274,
+        "success": true
+      },
+      {
+        "event_id": "AE00077",
+        "event_type": "search_route",
+        "timestamp": "2024-06-12 20:18:00",
+        "api_latency_ms": 546,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0515",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 492.5,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "Central",
+      "East"
+    ],
+    "events": [
+      {
+        "event_id": "AE00064",
+        "event_type": "track_order",
+        "timestamp": "2024-09-16 15:36:00",
+        "api_latency_ms": 840,
+        "success": true
+      },
+      {
+        "event_id": "AE00590",
+        "event_type": "search_route",
+        "timestamp": "2025-04-13 04:28:00",
+        "api_latency_ms": 145,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0127",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 384.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "East",
+      "Riverside"
+    ],
+    "events": [
+      {
+        "event_id": "AE00065",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-04-03 04:07:00",
+        "api_latency_ms": 287,
+        "success": true
+      },
+      {
+        "event_id": "AE00450",
+        "event_type": "cancel_attempt",
+        "timestamp": "2024-10-17 16:23:00",
+        "api_latency_ms": 481,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0612",
+    "total_events": 1,
+    "successful_events": 0,
+    "failed_events": 1,
+    "avg_api_latency": 60.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "RiverSide"
+    ],
+    "events": [
+      {
+        "event_id": "AE00066",
+        "event_type": "payment_retry",
+        "timestamp": "2025-05-19 07:41:00",
+        "api_latency_ms": 60,
+        "success": false
+      }
+    ]
+  },
+  {
+    "customer_id": "C0113",
+    "total_events": 3,
+    "successful_events": 3,
+    "failed_events": 0,
+    "avg_api_latency": 532.0,
+    "devices_used": [
+      "Android",
+      "Web"
+    ],
+    "zones_visited": [
+      "North",
+      "Ctr",
+      "Riverside"
+    ],
+    "events": [
+      {
+        "event_id": "AE00067",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-04-28 01:07:00",
+        "api_latency_ms": 594,
+        "success": true
+      },
+      {
+        "event_id": "AE00343",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-03-18 08:14:00",
+        "api_latency_ms": 595,
+        "success": true
+      },
+      {
+        "event_id": "AE00487",
+        "event_type": "search_route",
+        "timestamp": "2024-03-30 03:51:00",
+        "api_latency_ms": 407,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0130",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 60.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "Ctr"
+    ],
+    "events": [
+      {
+        "event_id": "AE00068",
+        "event_type": "chat_opened",
+        "timestamp": "2024-04-06 13:41:00",
+        "api_latency_ms": 60,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0303",
+    "total_events": 2,
+    "successful_events": 1,
+    "failed_events": 1,
+    "avg_api_latency": 505.5,
+    "devices_used": [
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "South",
+      "East"
+    ],
+    "events": [
+      {
+        "event_id": "AE00069",
+        "event_type": "payment_retry",
+        "timestamp": "2025-02-13 15:13:00",
+        "api_latency_ms": 637,
+        "success": false
+      },
+      {
+        "event_id": "AE00366",
+        "event_type": "track_order",
+        "timestamp": "2025-02-12 17:14:00",
+        "api_latency_ms": 374,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0565",
+    "total_events": 3,
+    "successful_events": 3,
+    "failed_events": 0,
+    "avg_api_latency": 346.67,
+    "devices_used": [
+      "iOS",
+      "Android"
+    ],
+    "zones_visited": [
+      "EAST",
+      "RiverSide",
+      "West"
+    ],
+    "events": [
+      {
+        "event_id": "AE00071",
+        "event_type": "chat_opened",
+        "timestamp": "2024-10-11 06:33:00",
+        "api_latency_ms": 300,
+        "success": true
+      },
+      {
+        "event_id": "AE00111",
+        "event_type": "cancel_attempt",
+        "timestamp": "2025-02-06 03:15:00",
+        "api_latency_ms": 219,
+        "success": true
+      },
+      {
+        "event_id": "AE00205",
+        "event_type": "search_route",
+        "timestamp": "2025-12-02 17:43:00",
+        "api_latency_ms": 521,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0006",
+    "total_events": 3,
+    "successful_events": 3,
+    "failed_events": 0,
+    "avg_api_latency": 219.67,
+    "devices_used": [
+      "Android",
+      "Web"
+    ],
+    "zones_visited": [
+      "Ctr",
+      "West",
+      "South"
+    ],
+    "events": [
+      {
+        "event_id": "AE00072",
+        "event_type": "track_order",
+        "timestamp": "2025-11-10 23:09:00",
+        "api_latency_ms": 155,
+        "success": true
+      },
+      {
+        "event_id": "AE00190",
+        "event_type": "track_order",
+        "timestamp": "2024-12-25 13:57:00",
+        "api_latency_ms": 407,
+        "success": true
+      },
+      {
+        "event_id": "AE00561",
+        "event_type": "chat_opened",
+        "timestamp": "2024-03-14 20:26:00",
+        "api_latency_ms": 97,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0521",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 569.0,
+    "devices_used": [
+      "Web",
+      "Android"
+    ],
+    "zones_visited": [
+      "AIRPORT",
+      "North"
+    ],
+    "events": [
+      {
+        "event_id": "AE00073",
+        "event_type": "cancel_attempt",
+        "timestamp": "2025-08-20 22:37:00",
+        "api_latency_ms": 392,
+        "success": true
+      },
+      {
+        "event_id": "AE00506",
+        "event_type": "search_route",
+        "timestamp": "2025-06-12 23:24:00",
+        "api_latency_ms": 746,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0522",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 347.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "Airport"
+    ],
+    "events": [
+      {
+        "event_id": "AE00074",
+        "event_type": "chat_opened",
+        "timestamp": "2025-04-13 00:33:00",
+        "api_latency_ms": 347,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0439",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 463.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "AIRPORT"
+    ],
+    "events": [
+      {
+        "event_id": "AE00075",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-09-22 13:20:00",
+        "api_latency_ms": 463,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0221",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 532.5,
+    "devices_used": [
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "EAST",
+      "SOUTH"
+    ],
+    "events": [
+      {
+        "event_id": "AE00076",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2025-04-19 07:46:00",
+        "api_latency_ms": 1005,
+        "success": true
+      },
+      {
+        "event_id": "AE00520",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2025-11-30 11:23:00",
+        "api_latency_ms": 60,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0328",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 859.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "AIRPORT",
+      "SOUTH"
+    ],
+    "events": [
+      {
+        "event_id": "AE00078",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-04-30 19:26:00",
+        "api_latency_ms": 853,
+        "success": true
+      },
+      {
+        "event_id": "AE00452",
+        "event_type": "payment_retry",
+        "timestamp": "2025-10-14 21:53:00",
+        "api_latency_ms": 865,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0371",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 646.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "RiverSide"
+    ],
+    "events": [
+      {
+        "event_id": "AE00079",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2025-02-28 12:58:00",
+        "api_latency_ms": 646,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0181",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 783.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "SOUTH"
+    ],
+    "events": [
+      {
+        "event_id": "AE00080",
+        "event_type": "search_route",
+        "timestamp": "2024-01-08 01:12:00",
+        "api_latency_ms": 783,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0182",
+    "total_events": 4,
+    "successful_events": 4,
+    "failed_events": 0,
+    "avg_api_latency": 489.75,
+    "devices_used": [
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "WEST",
+      "RiverSide",
+      "Ctr",
+      "Central"
+    ],
+    "events": [
+      {
+        "event_id": "AE00081",
+        "event_type": "track_order",
+        "timestamp": "2024-05-14 22:41:00",
+        "api_latency_ms": 422,
+        "success": true
+      },
+      {
+        "event_id": "AE00195",
+        "event_type": "track_order",
+        "timestamp": "2024-02-12 12:39:00",
+        "api_latency_ms": 553,
+        "success": true
+      },
+      {
+        "event_id": "AE00308",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-04-01 08:58:00",
+        "api_latency_ms": 535,
+        "success": true
+      },
+      {
+        "event_id": "AE00640",
+        "event_type": "track_order",
+        "timestamp": "2025-04-15 23:12:00",
+        "api_latency_ms": 449,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0231",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 382.0,
+    "devices_used": [
+      "iOS",
+      "Android"
+    ],
+    "zones_visited": [
+      "East",
+      "Airport"
+    ],
+    "events": [
+      {
+        "event_id": "AE00082",
+        "event_type": "search_route",
+        "timestamp": "2025-12-03 00:20:00",
+        "api_latency_ms": 60,
+        "success": true
+      },
+      {
+        "event_id": "AE00592",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-05-06 13:33:00",
+        "api_latency_ms": 704,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0215",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 371.5,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "East",
+      "Airport"
+    ],
+    "events": [
+      {
+        "event_id": "AE00083",
+        "event_type": "track_order",
+        "timestamp": "2024-09-12 22:25:00",
+        "api_latency_ms": 265,
+        "success": true
+      },
+      {
+        "event_id": "AE00236",
+        "event_type": "payment_retry",
+        "timestamp": "2024-08-23 22:05:00",
+        "api_latency_ms": 478,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0021",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 688.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "South"
+    ],
+    "events": [
+      {
+        "event_id": "AE00084",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-02-22 02:18:00",
+        "api_latency_ms": 688,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0634",
+    "total_events": 4,
+    "successful_events": 4,
+    "failed_events": 0,
+    "avg_api_latency": 442.25,
+    "devices_used": [
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "Airport",
+      "AIRPORT",
+      "NORTH",
+      "West"
+    ],
+    "events": [
+      {
+        "event_id": "AE00085",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-03-20 07:47:00",
+        "api_latency_ms": 843,
+        "success": true
+      },
+      {
+        "event_id": "AE00148",
+        "event_type": "track_order",
+        "timestamp": "2025-07-16 13:16:00",
+        "api_latency_ms": 263,
+        "success": true
+      },
+      {
+        "event_id": "AE00179",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-04-20 23:19:00",
+        "api_latency_ms": 231,
+        "success": true
+      },
+      {
+        "event_id": "AE00600",
+        "event_type": "payment_retry",
+        "timestamp": "2024-12-03 03:06:00",
+        "api_latency_ms": 432,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0256",
+    "total_events": 4,
+    "successful_events": 4,
+    "failed_events": 0,
+    "avg_api_latency": 532.0,
+    "devices_used": [
+      "iOS",
+      "Android"
+    ],
+    "zones_visited": [
+      "South",
+      "EAST",
+      "North",
+      "AIRPORT"
+    ],
+    "events": [
+      {
+        "event_id": "AE00086",
+        "event_type": "search_route",
+        "timestamp": "2024-03-16 01:54:00",
+        "api_latency_ms": 813,
+        "success": true
+      },
+      {
+        "event_id": "AE00155",
+        "event_type": "search_route",
+        "timestamp": "2025-06-19 05:14:00",
+        "api_latency_ms": 780,
+        "success": true
+      },
+      {
+        "event_id": "AE00400",
+        "event_type": "search_route",
+        "timestamp": "2024-10-07 04:49:00",
+        "api_latency_ms": 149,
+        "success": true
+      },
+      {
+        "event_id": "AE00468",
+        "event_type": "chat_opened",
+        "timestamp": "2025-08-21 17:49:00",
+        "api_latency_ms": 386,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0218",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 444.5,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "RiverSide",
+      "WEST"
+    ],
+    "events": [
+      {
+        "event_id": "AE00087",
+        "event_type": "search_route",
+        "timestamp": "2024-06-27 01:58:00",
+        "api_latency_ms": 401,
+        "success": true
+      },
+      {
+        "event_id": "AE00576",
+        "event_type": "search_route",
+        "timestamp": "2024-11-04 21:00:00",
+        "api_latency_ms": 488,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0157",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 561.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "NORTH"
+    ],
+    "events": [
+      {
+        "event_id": "AE00088",
+        "event_type": "chat_opened",
+        "timestamp": "2024-06-12 21:08:00",
+        "api_latency_ms": 561,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0637",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 60.0,
+    "devices_used": [
+      "Web"
+    ],
+    "zones_visited": [
+      "north"
+    ],
+    "events": [
+      {
+        "event_id": "AE00089",
+        "event_type": "search_route",
+        "timestamp": "2024-01-02 17:18:00",
+        "api_latency_ms": 60,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0044",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 610.5,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "north",
+      "Riverside"
+    ],
+    "events": [
+      {
+        "event_id": "AE00090",
+        "event_type": "payment_retry",
+        "timestamp": "2025-07-17 23:08:00",
+        "api_latency_ms": 820,
+        "success": true
+      },
+      {
+        "event_id": "AE00500",
+        "event_type": "cancel_attempt",
+        "timestamp": "2025-11-09 05:18:00",
+        "api_latency_ms": 401,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0204",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 610.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "East"
+    ],
+    "events": [
+      {
+        "event_id": "AE00091",
+        "event_type": "chat_escalated",
+        "timestamp": "2025-12-06 06:51:00",
+        "api_latency_ms": 610,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0129",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 562.5,
+    "devices_used": [
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "Ctr",
+      "EAST"
+    ],
+    "events": [
+      {
+        "event_id": "AE00092",
+        "event_type": "eta_refresh",
+        "timestamp": "2025-04-22 23:16:00",
+        "api_latency_ms": 522,
+        "success": true
+      },
+      {
+        "event_id": "AE00558",
+        "event_type": "payment_retry",
+        "timestamp": "2024-08-27 13:04:00",
+        "api_latency_ms": 603,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0025",
+    "total_events": 2,
+    "successful_events": 2,
+    "failed_events": 0,
+    "avg_api_latency": 739.5,
+    "devices_used": [
+      "iOS",
+      "Android"
+    ],
+    "zones_visited": [
+      "EAST",
+      "AIRPORT"
+    ],
+    "events": [
+      {
+        "event_id": "AE00093",
+        "event_type": "payment_retry",
+        "timestamp": "2024-02-13 15:40:00",
+        "api_latency_ms": 440,
+        "success": true
+      },
+      {
+        "event_id": "AE00143",
+        "event_type": "cancel_attempt",
+        "timestamp": "2024-07-18 18:59:00",
+        "api_latency_ms": 1039,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0010",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 573.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "South"
+    ],
+    "events": [
+      {
+        "event_id": "AE00094",
+        "event_type": "track_order",
+        "timestamp": "2025-08-01 11:56:00",
+        "api_latency_ms": 573,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0428",
+    "total_events": 4,
+    "successful_events": 4,
+    "failed_events": 0,
+    "avg_api_latency": 383.5,
+    "devices_used": [
+      "Web",
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "WEST",
+      "Central",
+      "EAST",
+      "AIRPORT"
+    ],
+    "events": [
+      {
+        "event_id": "AE00095",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2025-05-16 01:12:00",
+        "api_latency_ms": 399,
+        "success": true
+      },
+      {
+        "event_id": "AE00168",
+        "event_type": "track_order",
+        "timestamp": "2024-11-13 12:22:00",
+        "api_latency_ms": 160,
+        "success": true
+      },
+      {
+        "event_id": "AE00305",
+        "event_type": "eta_refresh",
+        "timestamp": "2024-02-12 16:22:00",
+        "api_latency_ms": 226,
+        "success": true
+      },
+      {
+        "event_id": "AE00373",
+        "event_type": "eta_refresh",
+        "timestamp": "2024-06-05 00:55:00",
+        "api_latency_ms": 749,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0424",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 562.0,
+    "devices_used": [
+      "Web"
+    ],
+    "zones_visited": [
+      "East"
+    ],
+    "events": [
+      {
+        "event_id": "AE00096",
+        "event_type": "track_order",
+        "timestamp": "2025-02-07 00:14:00",
+        "api_latency_ms": 562,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0468",
+    "total_events": 1,
+    "successful_events": 0,
+    "failed_events": 1,
+    "avg_api_latency": 404.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "Riverside"
+    ],
+    "events": [
+      {
+        "event_id": "AE00097",
+        "event_type": "payment_retry",
+        "timestamp": "2025-06-10 04:05:00",
+        "api_latency_ms": 404,
+        "success": false
+      }
+    ]
+  },
+  {
+    "customer_id": "C0101",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 401.0,
+    "devices_used": [
+      "iOS"
+    ],
+    "zones_visited": [
+      "RiverSide"
+    ],
+    "events": [
+      {
+        "event_id": "AE00098",
+        "event_type": "chat_escalated",
+        "timestamp": "2025-01-31 14:10:00",
+        "api_latency_ms": 401,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0312",
+    "total_events": 3,
+    "successful_events": 2,
+    "failed_events": 1,
+    "avg_api_latency": 261.67,
+    "devices_used": [
+      "Android",
+      "iOS"
+    ],
+    "zones_visited": [
+      "Airport",
+      "WEST"
+    ],
+    "events": [
+      {
+        "event_id": "AE00100",
+        "event_type": "chat_escalated",
+        "timestamp": "2024-05-29 17:36:00",
+        "api_latency_ms": 137,
+        "success": false
+      },
+      {
+        "event_id": "AE00291",
+        "event_type": "track_order",
+        "timestamp": "2024-12-17 21:44:00",
+        "api_latency_ms": 405,
+        "success": true
+      },
+      {
+        "event_id": "AE00311",
+        "event_type": "chat_escalated",
+        "timestamp": "2024-08-26 16:45:00",
+        "api_latency_ms": 243,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0149",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 618.0,
+    "devices_used": [
+      "Web"
+    ],
+    "zones_visited": [
+      "Central"
+    ],
+    "events": [
+      {
+        "event_id": "AE00101",
+        "event_type": "cancel_attempt",
+        "timestamp": "2025-08-08 19:08:00",
+        "api_latency_ms": 618,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0272",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 982.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "East"
+    ],
+    "events": [
+      {
+        "event_id": "AE00102",
+        "event_type": "chat_escalated",
+        "timestamp": "2025-05-13 09:40:00",
+        "api_latency_ms": 982,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0429",
+    "total_events": 3,
+    "successful_events": 2,
+    "failed_events": 1,
+    "avg_api_latency": 955.0,
+    "devices_used": [
+      "Android",
+      "Web"
+    ],
+    "zones_visited": [
+      "RiverSide",
+      "Ctr",
+      "CENTRAL"
+    ],
+    "events": [
+      {
+        "event_id": "AE00104",
+        "event_type": "chat_opened",
+        "timestamp": "2024-03-19 16:37:00",
+        "api_latency_ms": 649,
+        "success": true
+      },
+      {
+        "event_id": "AE00120",
+        "event_type": "delivery_instruction_update",
+        "timestamp": "2024-08-09 08:11:00",
+        "api_latency_ms": 1218,
+        "success": true
+      },
+      {
+        "event_id": "AE00344",
+        "event_type": "chat_escalated",
+        "timestamp": "2024-05-14 09:28:00",
+        "api_latency_ms": 998,
+        "success": false
+      }
+    ]
+  },
+  {
+    "customer_id": "C0540",
+    "total_events": 5,
+    "successful_events": 5,
+    "failed_events": 0,
+    "avg_api_latency": 399.2,
+    "devices_used": [
+      "iOS",
+      "Android",
+      "Web"
+    ],
+    "zones_visited": [
+      "Riverside",
+      "WEST",
+      "Ctr",
+      "EAST",
+      "CENTRAL"
+    ],
+    "events": [
+      {
+        "event_id": "AE00105",
+        "event_type": "cancel_attempt",
+        "timestamp": "2024-05-28 05:14:00",
+        "api_latency_ms": 153,
+        "success": true
+      },
+      {
+        "event_id": "AE00113",
+        "event_type": "search_route",
+        "timestamp": "2024-02-27 18:25:00",
+        "api_latency_ms": 510,
+        "success": true
+      },
+      {
+        "event_id": "AE00153",
+        "event_type": "search_route",
+        "timestamp": "2024-10-28 03:03:00",
+        "api_latency_ms": 360,
+        "success": true
+      },
+      {
+        "event_id": "AE00185",
+        "event_type": "payment_retry",
+        "timestamp": "2024-01-01 04:02:00",
+        "api_latency_ms": 550,
+        "success": true
+      },
+      {
+        "event_id": "AE00206",
+        "event_type": "track_order",
+        "timestamp": "2025-08-10 13:22:00",
+        "api_latency_ms": 423,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0360",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 216.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "South"
+    ],
+    "events": [
+      {
+        "event_id": "AE00106",
+        "event_type": "search_route",
+        "timestamp": "2025-01-25 13:47:00",
+        "api_latency_ms": 216,
+        "success": true
+      }
+    ]
+  },
+  {
+    "customer_id": "C0081",
+    "total_events": 1,
+    "successful_events": 0,
+    "failed_events": 1,
+    "avg_api_latency": 449.0,
+    "devices_used": [
+      "Android"
+    ],
+    "zones_visited": [
+      "North"
+    ],
+    "events": [
+      {
+        "event_id": "AE00107",
+        "event_type": "chat_escalated",
+        "timestamp": "2024-01-24 03:08:00",
+        "api_latency_ms": 449,
+        "success": false
+      }
+    ]
+  },
+  {
+    "customer_id": "C0307",
+    "total_events": 1,
+    "successful_events": 1,
+    "failed_events": 0,
+    "avg_api_latency": 1285.0,
+    "devices_used": [
+      "Web"
+    ],
+    "zones_visited": [
+      "Ctr"
+    ],
+    "events": [
+      {
+        "event_id": "AE00108",
+        "event_type": "eta_refresh",
+        "timestamp": "2024-11-27 16:15:00",
+        "api_latency_ms": 1285,
+        "success": true
+      }
+    ]
+  }
+]
